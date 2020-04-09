@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745395183578",
+    "firebase_url": "https://reminderthp.firebaseio.com",
+    "project_id": "reminderthp",
+    "storage_bucket": "reminderthp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745395183578:android:0e8e414ce5dd3b726b2ae3",
+        "android_client_info": {
+          "package_name": "com.reminderthp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745395183578-irc8183jdubgplv4s0t7fidd07aghauf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzx6yBi40RwBjSbtRWPKLsztAG4QGMdhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745395183578-irc8183jdubgplv4s0t7fidd07aghauf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
